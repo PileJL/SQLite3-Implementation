@@ -5,7 +5,7 @@ NOTEFY is a multifunctional notepad organizer for personal events that offers a 
 - Events List
 - Notes List
 - Text Editor
-- Speech to Text
+- Speech-to-Text
 - Digital Clock
 - Image-to-Text Converter
 - Dark and Light Modes
